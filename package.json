@@ -2,9 +2,10 @@
   "name": "omegacorp.github.io",
   "private": true,
   "version": "0.0.1",
-  "homepage": "https://omegacorp.club",
+  "homepage": "https://Omega-Corp-myDU.github.io/omegacorp.github.io",
   "type": "module",
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
